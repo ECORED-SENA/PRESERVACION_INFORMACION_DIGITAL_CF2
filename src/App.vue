@@ -1,0 +1,45 @@
+<template lang="pug">
+#app.app
+  Header
+  .contenedor-principal
+    AsideMenu
+    section.seccion-principal(:class="{'seccion-principal--barra-avance-open' : !menuState}")
+      router-view
+  BarraAvance
+  Accesibilidad
+</template>
+
+<script>
+export default {
+  name: 'App',
+  data: () => ({
+    menuOpen: false,
+  }),
+  computed: {
+    menuState() {
+      return this.$store.getters.isMenuOpen
+    },
+  },
+  mounted() {
+    this.$aos.init({
+      offset: 100,
+    })
+  },
+}
+</script>
+
+<style lang="sass">
+.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
+    color: #12263F !important
+.titulo-principal__numero
+  background-color: #FF5151
+.titulo-principal__numero span
+  color: #fff !important
+.curso-main-container > .container
+    overflow-x: inherit !important
+.titulo-segundo:after
+  border-left-color: #5C22C3 !important
+.row
+  margin-left: 0px !important
+  margin-right: 0px !important
+</style>
