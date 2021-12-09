@@ -146,11 +146,11 @@
 
     p(data-aos="fade-up") Un documento electrónico está compuesto por la estructura física y la estructura lógica. A continuación, se explicará su respectiva definición.
 
-    h3.mt-4(data-aos="fade-up") 3.2.1. Estructura física.
+    h3.mt-4(data-aos="fade-up") Estructura física.
 
     .row.mt-4
       .col-md-7
-        p(data-aos="fade-up") Para que un documento electrónico tenga una estructura física requiere de aplicaciones de software para poder crearlos, estos funcionan teniendo en cuenta configuraciones adaptadas al sistema, las cuales le dan unas características físicas al objeto digital. Esta estructura no es constante, ya que todo se somete al tipo de almacenamiento y a los formatos utilizados
+        p(data-aos="fade-up") Para que un documento electrónico tenga una estructura física requiere de aplicaciones de software para poder crearlos, estos funcionan teniendo en cuenta configuraciones adaptadas al sistema, las cuales le dan unas características físicas al objeto digital. Esta estructura no es constante, ya que todo se somete al tipo de almacenamiento y a los formatos utilizados.
         p.mt-3(data-aos="fade-up") Para comprender mejor dicha estructura es importante diferenciar los siguientes conceptos:
       .col-md-5
         img(src="@/assets/curso/tema3/6.svg" data-aos="fade-left")
@@ -183,20 +183,20 @@
       .col-md-5
         .p-4(style="background-color:#FFBBBB;height:100%")
           .row
-            .col-md-6
+            .col-lg-4
               img(src="@/assets/curso/tema3/9.svg" data-aos="fade-up")
-            .col-md-6(style="place-self:center")
+            .col-lg-8(style="place-self:center")
               h5(data-aos="fade-up") Medios de almacenamiento y reproducción:
-          p.mt-4(data-aos="fade-up") Los medios o herramientas que se utilizan son muy importantes, debido a que certifican que el documento cumpla con las especificaciones solicitadas mencionadas anteriormente, dentro de los medios o herramientas se encuentran los siguientes: hardware y software.
+          p.mt-4(data-aos="fade-up") Los medios o herramientas que se utilizan son muy importantes, debido a que certifican que el documento cumpla con las especificaciones solicitadas mencionadas anteriormente, dentro de los medios o herramientas se encuentran los siguientes: #[em hardware] y #[em software].
           .row.mt-4
             .p-4.col-md-6.m-auto(style="background-color:#592FE6;border-radius:10px;")
-              h4.text-center.text-white.mb-0 Hardware
+              h4.text-center.text-white.mb-0 #[em Hardware]
           .row.mt-3
             .p-4.col-md-6.m-auto(style="background-color:#592FE6;border-radius:10px;")
-              h4.text-center.text-white.mb-0 Software
+              h4.text-center.text-white.mb-0 #[em Software]
 
     br
-    h3.mt-5(data-aos="fade-up") 3.2.2 Estructura lógica.
+    h3.mt-5(data-aos="fade-up") Estructura lógica.
     p.mt-3(data-aos="fade-up") Incluye la forma en que se registran e identifican los documentos electrónicos, con el objetivo de asegurar que estos cumplan con las características de autenticidad, fiabilidad, integridad y disponibilidad. En el ámbito de identificación se incluye lo que indica la siguiente figura:
 
     .col-lg-8.m-auto

@@ -22,7 +22,7 @@
 
     p.mt-5(data-aos="fade-up") Para nuestro caso, la normativa en el manejo de la información es por medio de leyes, decretos, acuerdos y/o políticas, que permiten reglamentar y estandarizar parcialmente el uso, acceso y almacenamiento de la información tanto de una organización como actualmente los datos personales de una persona.
 
-    .bloque-texto-a.color-primario.p-4.p-md-5.mt-5.col-md-9.m-auto 
+    .bloque-texto-a.color-primario.p-5.mt-5.col-md-9.m-auto 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
           img(src="@/assets/curso/tema1/2.svg")
@@ -30,12 +30,12 @@
           .bloque-texto-a__texto.p-4
             p En Colombia el Archivo General de la Nación crea el Acuerdo 006 del 15 de octubre de 2014 “por medio del cual se desarrollan los Artículos 46, 47 y 48 del Título XI Conservación de documentos de la Ley 594 de 2000″.
             p.mt-3 Para mayor información se puede consultar el acuerdo dispuesto a continuación:
-            a.anexo.mt-5(href="https://normativa.archivogeneral.gov.co/acuerdo-006-de-2014/" target="_blank")
+            a.anexo.mt-4(href="https://normativa.archivogeneral.gov.co/acuerdo-006-de-2014/" target="_blank" style="background-color:#EDE8FF;position: relative;margin-bottom: -61px;")
               .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
+                img(src="@/assets/curso/tema1/24.svg")
               .anexo__texto
-                h5 Enlace web. 
-                p Acuerdo 006 del 15 de octubre de 2014
+                h5(style="color:#592FE6;") Enlace web. 
+                p(style="color:#592FE6;") Acuerdo 006 del 15 de octubre de 2014
 
     p.mt-5(data-aos="fade-up") Es importante destacar en este acuerdo algunos artículos relevantes para la comprensión de esta área de conocimientos como:
 
@@ -43,7 +43,9 @@
 
     SlyderB.mt-5(:datos="datosSlyder")
 
-    p.mt-5(data-aos="fade-up") Se debe tener en cuenta que para esta área de conocimiento aplica la normativa a nivel general y específica. Lo anterior, para garantizar que los procesos en la preservación de documentos sean llevados de manera correcta y exitosa, salvaguardando tanto a las organizaciones como a las personas. 
+    p.mt-5(data-aos="fade-up") Se debe tener en cuenta que para esta área de conocimiento aplica la normativa a nivel general y específica. Lo anterior, para garantizar que los procesos en la preservación de documentos sean llevados de manera correcta y exitosa, salvaguardando tanto a las organizaciones como a las personas.
+
+    p.mt-3(data-aos="fade-up") A continuación, se presentan las diferentes normativas: 
 
     h5.mt-5.text-center(data-aos="fade-up") Leyes
 
@@ -348,13 +350,13 @@
             i.fas.fa-quote-left(style="display:contents" data-aos="fade-left")
             p.text-regular &nbsp;&nbsp;&nbsp;&nbsp;Los datos personales tienen la información necesaria para que las personas puedan relacionarse con diferentes organizaciones para que sean individualizadas del resto de la sociedad, creando flujos de información, cooperando con el crecimiento económico y el mejoramiento de bienes y servicios.
           .bloque-texto-d__autor 
-            .h5.mb-0(style="display:contents") (Significados, 2018).
+            .h5.mb-0(style="display:contents") (SIC, 2021).
             i.fas.fa-quote-right(data-aos="fade-left")
       .col-md-5
         figure
           img(src="@/assets/curso/tema1/13.svg" data-aos="fade-left")
 
-    h3.mt-5(data-aos="fade-up") 1.1.1. Tipos de datos.
+    h3.mt-5(data-aos="fade-up") Tipos de datos.
 
     p(data-aos="fade-up") La organización en la protección de datos establece las tipologías de datos, según el mayor o menor grado de aceptabilidad de divulgación, tal como se muestra en la siguiente figura:
 
@@ -365,34 +367,34 @@
         div(style="background-color:#88E0EF")
           .p-5
             h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato público
-        .p-5.text-center(style="background-color:#FF5151;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:350px;")
+        .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:400px;")
           img(src="@/assets/curso/tema1/14.svg" style="max-width:150px;display:inline;margin-top: -103px;")
           p.mt-2.text-center Es el dato que la ley o la constitución política determina como tal, así como todos aquellos que no sean semiprivados o privados.
       .col-md-3.mb-3(style="padding:0px;")
         div(style="background-color:#88E0EF")
           .p-5
             h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato semiprivado
-        .p-5.text-center(style="background-color:#FF5151;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:350px;")
+        .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:400px;")
           img(src="@/assets/curso/tema1/15.svg" style="max-width:150px;display:inline;margin-top: -103px;")
           p.mt-2.text-center Es el dato que no tiene naturaleza íntima, reservada, ni pública y cuyo conocimiento o divulgación puede interesar no solo a su titular sino a cierto sector o grupo de personas.
       .col-md-3.mb-3(style="padding:0px;")
         div(style="background-color:#88E0EF")
           .p-5
-            h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato público
-        .p-5.text-center(style="background-color:#FF5151;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:350px;")
+            h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato privado
+        .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:400px;")
           img(src="@/assets/curso/tema1/16.svg" style="max-width:150px;display:inline;margin-top: -103px;")
           p.mt-2.text-center Es el dato que la ley o la constitución política determina como tal, así como todos aquellos que no sean semiprivados o privados.
       .col-md-3.mb-3(style="padding:0px;")
         div(style="background-color:#88E0EF")
           .p-5
-            h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato público
-        .p-5.text-center(style="background-color:#FF5151;border-bottom-right-radius:25px;border-bottom-left-radius:10px;min-height:350px;")
+            h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato sensible
+        .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;min-height:400px;")
           img(src="@/assets/curso/tema1/17.svg" style="max-width:150px;display:inline;margin-top: -103px;")
           p.mt-2.text-center Es el dato que la ley o la constitución política determina como tal, así como todos aquellos que no sean semiprivados o privados.
 
     figcaption(style="background-color:#88E0EF") Nota. Tomados de SIC (2021).
     
-    h3.mt-5(data-aos="fade-up") 1.1.2. Ley estatutaria 1581 de 2012.
+    h3.mt-5(data-aos="fade-up") Ley estatutaria 1581 de 2012.
 
     p.mt-3(data-aos="fade-up") A continuación, podrá ver a través de un video lo que más se destaca de esta ley:
 
@@ -452,12 +454,12 @@
 
     figcaption.mt-2(data-aos="fade-up") Nota. Tomadas de SIC (2021).
 
-    h3.mt-5(data-aos="fade-up") 1.1.3. Política de tratamiento de datos. 
+    h3.mt-5(data-aos="fade-up") Política de tratamiento de datos. 
 
     .col-lg-10.m-auto.mt-3
       .cajon.color-secundario.p-4.mb-4
         .h5 Definición:
-        p la presente política tiene como objeto dar la información necesaria y suficiente a los diferentes grupos de interés, así como establecer los lineamientos que garanticen la protección de los datos personales que son objeto de tratamiento de datos personales, a través de los procedimientos de la Superintendencia de Industria y Comercio, para de esta forma dar cumplimiento a la ley, políticas y procedimientos de atención de derechos de los titulares, criterios de recolección, almacenamiento, uso, circulación y supresión que se dará a los datos personales (SIC, 2021).
+        p La presente política tiene como objeto dar la información necesaria y suficiente a los diferentes grupos de interés, así como establecer los lineamientos que garanticen la protección de los datos personales que son objeto de tratamiento de datos personales, a través de los procedimientos de la Superintendencia de Industria y Comercio, para de esta forma dar cumplimiento a la ley, políticas y procedimientos de atención de derechos de los titulares, criterios de recolección, almacenamiento, uso, circulación y supresión que se dará a los datos personales (SIC, 2021).
 
     .bloque-texto-a.color-primario.color2.p-4.p-md-5.mt-5.col-md-9.m-auto 
       .row.m-0.align-items-center.justify-content-between

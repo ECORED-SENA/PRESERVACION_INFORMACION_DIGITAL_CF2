@@ -42,4 +42,6 @@ export default {
 .row
   margin-left: 0px !important
   margin-right: 0px !important
+.banner-interno__fondo
+  background-image: url("./assets/curso/fondo.svg") !important
 </style>

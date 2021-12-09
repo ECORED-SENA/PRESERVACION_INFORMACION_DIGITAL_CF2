@@ -14,8 +14,6 @@
       .col-md-6
         img(src="@/assets/curso/tema4/1.svg" data-aos="fade-left")
 
-    p.mt-5(data-aos="fade-up") Los documentos electrónicos almacenados y gestionados por el documento digital deben cumplir con los requerimientos que se muestran en la siguiente figura.
-
     .col-lg-7.m-auto
       p.mt-5(data-aos="fade-up" style="padding:4px; border-left:4px #5C22C3 solid;margin-left") &nbsp;&nbsp;Figura 6. Mapa de bits
       img(src="@/assets/curso/tema4/2.svg" data-aos="fade-up")
@@ -90,7 +88,7 @@
 
     .row
       .col-md-6
-        p(data-aos="fade-up") AEl tamaño del archivo es un número en bits o bytes, que describe cuánta memoria se requiere para almacenar información de imagen en los medios de almacenamiento (disco duro, USB, tarjeta de memoria, etc.), y como puede imaginar, el tamaño del archivo dependerá de una serie de factores, de los cuales los más importantes son la resolución (R), el tamaño de la imagen (L x Ancho) y la profundidad del color (P).
+        p(data-aos="fade-up") El tamaño del archivo es un número en bits o bytes, que describe cuánta memoria se requiere para almacenar información de imagen en los medios de almacenamiento (disco duro, USB, tarjeta de memoria, etc.), y como puede imaginar, el tamaño del archivo dependerá de una serie de factores, de los cuales los más importantes son la resolución (R), el tamaño de la imagen (L x Ancho) y la profundidad del color (P).
         p.mt-3(data-aos="fade-up") El tamaño de la imagen está dado por = anchura en píxeles X altura en píxeles. 
         p.mt-3(data-aos="fade-up") Ejemplo: una imagen de tamaño de 24 píxeles se puede representar así: 
         p.mt-3(data-aos="fade-up") 6 X 4 = 24 píxeles, como se muestra en la figura.
@@ -162,7 +160,7 @@
             tr
               td.p-5(style="background-color:#E5F3F5;") #[strong Evaluación estadística de las áreas de entrenamiento]
               td(style="background-color:#F6F6F6;")
-                p Las estadísticas evalúan el grado de representatividad de las áreas pilotos y dan idea sobre la separabilidad espectral de las clases temáticas, lo que al final garantiza una buena clasificación. #[br] Existen métodos gráficos y numéricos para evaluar las estadísticas, las más utilizadas son los diagramas de signaturas espectrales y los diagramas de dispersión espectral. Se basan en el análisis de las medias aritméticas y desviaciones estándar, la primera indica el comportamiento espectral medio de los ND, y la segunda el grado de heterogeneidad de la muestra.
+                p Las estadísticas evalúan el grado de representatividad de las áreas pilotos y dan idea sobre la separabilidad espectral de las clases temáticas, lo que al final garantiza una buena clasificación. #[br] #[br] Existen métodos gráficos y numéricos para evaluar las estadísticas, las más utilizadas son los diagramas de signaturas espectrales y los diagramas de dispersión espectral. Se basan en el análisis de las medias aritméticas y desviaciones estándar, la primera indica el comportamiento espectral medio de los ND, y la segunda el grado de heterogeneidad de la muestra.
 
       figcaption.bg-white Nota. Tomado de IGAC (2021).
 

@@ -22,8 +22,6 @@
         .cajon.color-secundario.p-5
           .h5.text-center Organización = clasificación + ordenación + descripción
 
-        p.mt-4(data-aos="fade-up") Cuando este proceso se realiza de manera correcta la clasificación y ordenación da como resultado la organización, es decir, si lo pusiera como ejemplo matemático quedaría de la siguiente manera:
-
         p.mt-4 #[i.fas.fa-check(style="color:#EA3065;")] Clasificación
         p.mt-2 #[i.fas.fa-check(style="color:#EA3065;")] Ordenación
         p.mt-2 #[i.fas.fa-check(style="color:#EA3065;")] Descripción
