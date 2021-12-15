@@ -29,7 +29,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="Grupo_129542" data-name="Grupo 129542" transform="translate(-140 -63)">
+  <g id="Grupo_129544" data-name="Grupo 129544" transform="translate(-140 -63)">
     <path id="Rectangle_652-2" data-name="Rectangle 652" d="M1299.213,0H20.787C9.307,0,0,8.4,0,18.772V488.063c0,10.367,9.307,18.772,20.787,18.772H1299.213c11.48,0,20.787-8.4,20.787-18.772V18.772C1320,8.4,1310.693,0,1299.213,0Z" transform="translate(140 70)" fill="#88e0ef"/>
     <g id="Enmascarar_grupo_44" data-name="Enmascarar grupo 44" clip-path="url(#clip-path)">
       <g id="Grupo_81527" data-name="Grupo 81527" transform="translate(1031.369 677.664) rotate(180)" opacity="0.38">
