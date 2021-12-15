@@ -22,6 +22,8 @@
         .cajon.color-secundario.p-5
           .h5.text-center Organización = clasificación + ordenación + descripción
 
+        p.mt-3(data-aos="fade-up") Los procesos de organización de archivo son tres y se clasifican de la siguiente manera: 
+
         p.mt-4 #[i.fas.fa-check(style="color:#EA3065;")] Clasificación
         p.mt-2 #[i.fas.fa-check(style="color:#EA3065;")] Ordenación
         p.mt-2 #[i.fas.fa-check(style="color:#EA3065;")] Descripción

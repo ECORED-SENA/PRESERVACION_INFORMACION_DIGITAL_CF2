@@ -383,14 +383,14 @@
             h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato privado
         .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;border-right:17px white solid;min-height:400px;")
           img(src="@/assets/curso/tema1/16.svg" style="max-width:150px;display:inline;margin-top: -103px;")
-          p.mt-2.text-center Es el dato que la ley o la constitución política determina como tal, así como todos aquellos que no sean semiprivados o privados.
+          p.mt-2.text-center Es el dato que por su naturaleza íntima o reservada solo es relevante para el titular de la información.
       .col-md-3.mb-3(style="padding:0px;")
         div(style="background-color:#88E0EF")
           .p-5
             h5.text-center(data-aos="fade-up" style="border-right:2px #592FE6 solid;") Dato sensible
         .p-5.text-center(style="background-color:#F6D7DC;border-bottom-right-radius:25px;border-bottom-left-radius:10px;min-height:400px;")
           img(src="@/assets/curso/tema1/17.svg" style="max-width:150px;display:inline;margin-top: -103px;")
-          p.mt-2.text-center Es el dato que la ley o la constitución política determina como tal, así como todos aquellos que no sean semiprivados o privados.
+          p.mt-2.text-center Es el dato que afecta la intimidad del titular o cuyo uso indebido puede generar su discriminación.
 
     figcaption(style="background-color:#88E0EF") Nota. Tomados de SIC (2021).
     

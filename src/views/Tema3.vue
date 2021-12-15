@@ -150,7 +150,7 @@
 
     .row.mt-4
       .col-md-7
-        p(data-aos="fade-up") Para que un documento electrónico tenga una estructura física requiere de aplicaciones de software para poder crearlos, estos funcionan teniendo en cuenta configuraciones adaptadas al sistema, las cuales le dan unas características físicas al objeto digital. Esta estructura no es constante, ya que todo se somete al tipo de almacenamiento y a los formatos utilizados.
+        p(data-aos="fade-up") Para que un documento electrónico tenga una estructura física requiere de aplicaciones de software para poder crearlos, estos funcionan teniendo en cuenta configuraciones adaptadas al sistema, las cuales le dan unas características físicas al objeto digital. Esta estructura no es constante, ya que todo se somete al tipo de almacenamiento y a los formatos utilizados
         p.mt-3(data-aos="fade-up") Para comprender mejor dicha estructura es importante diferenciar los siguientes conceptos:
       .col-md-5
         img(src="@/assets/curso/tema3/6.svg" data-aos="fade-left")
