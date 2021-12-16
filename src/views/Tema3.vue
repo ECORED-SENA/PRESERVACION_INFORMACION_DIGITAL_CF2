@@ -146,7 +146,7 @@
 
     p(data-aos="fade-up") Un documento electrónico está compuesto por la estructura física y la estructura lógica. A continuación, se explicará su respectiva definición.
 
-    h3.mt-4(data-aos="fade-up") Estructura física.
+    h3.mt-4(data-aos="fade-up") Estructura física
 
     .row.mt-4
       .col-md-7
@@ -196,7 +196,7 @@
               h4.text-center.text-white.mb-0 #[em Software]
 
     br
-    h3.mt-5(data-aos="fade-up") Estructura lógica.
+    h3.mt-5(data-aos="fade-up") Estructura lógica
     p.mt-3(data-aos="fade-up") Incluye la forma en que se registran e identifican los documentos electrónicos, con el objetivo de asegurar que estos cumplan con las características de autenticidad, fiabilidad, integridad y disponibilidad. En el ámbito de identificación se incluye lo que indica la siguiente figura:
 
     .col-lg-8.m-auto

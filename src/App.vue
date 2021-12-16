@@ -44,4 +44,9 @@ export default {
   margin-right: 0px !important
 .banner-interno__fondo
   background-image: url("./assets/curso/fondo.svg") !important
+.banner-principal__img img
+  max-width: 78% !important
+  display: inline
+.d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
+    text-align: right
 </style>

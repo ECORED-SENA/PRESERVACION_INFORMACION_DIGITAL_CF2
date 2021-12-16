@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Hoy en día, las entidades tienen como misión convertir los documentos en nuevos medios para optimizar las posibilidades y disponer de información ágil y segura, además de su digitalización y fácil acceso. Son estas dos razones, “preservación y distribución”, las que han promovido en gran medida el funcionamiento del mecanismo digital y han sentado las bases para mejorar el trabajo de bibliotecas, museos, instituciones y archivos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-principal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
     menu: [
