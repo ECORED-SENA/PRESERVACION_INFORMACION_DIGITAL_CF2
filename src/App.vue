@@ -49,4 +49,8 @@ export default {
   display: inline
 .d-none.d-lg-block.col-lg-5.px-0.banner-principal__img
     text-align: right
+.banner-principal .tarjeta
+  background-color: #ffffff !important
+  padding-right: 0!important
+  padding-left: 0!important
 </style>
