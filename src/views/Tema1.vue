@@ -56,7 +56,7 @@
 
       div(x="20%" y="29%" tooltip="Ley 527 de 1999" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 4rem 2rem 4rem")
               h4(style="color:#12263F !important;") Ley 527 de 1999
               p(style="color:#12263F !important;") Por medio de la cual se define y reglamenta el acceso y uso de los mensajes de datos, del comercio electrónico y de las firmas digitales, y se establecen las entidades de certificación y se dictan otras disposiciones.
@@ -69,7 +69,7 @@
 
       div(x="20%" y="45%" tooltip="Ley 594 de 2000" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 5rem 5rem 5rem")
               h4(style="color:#12263F !important;") Ley 594 de 2000
               p(style="color:#12263F !important;") Por medio de la cual se dicta la Ley General de Archivos y se dictan otras disposiciones.
@@ -82,7 +82,7 @@
 
       div(x="20%" y="61%" tooltip="Ley 975 de 2005" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 3rem 2rem 3rem;background-size:cover;")
               h4(style="color:#12263F !important;") Ley 975 de 2005
               p(style="color:#12263F !important;") Por la cual se dictan disposiciones para la reincorporación de miembros de grupos armados organizados al margen de la ley, que contribuyan de manera efectiva a la consecución de la paz nacional y se dictan otras disposiciones para acuerdos humanitarios. El Capítulo X Conservación de archivos establece el deber a la preservación de la memoria histórica que corresponde al Estado y establece lineamientos para facilitar el acceso a los archivos.
@@ -95,7 +95,7 @@
 
       div(x="20%" y="77%" tooltip="Ley 1185 de 2008" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 3rem 2rem 3rem;")
               h4(style="color:#12263F !important;") Ley 1185 de 2008
               p(style="color:#12263F !important;") Por la cual se modifica y adiciona la Ley 397 de 1997 –Ley General de Cultura– y se dictan otras disposiciones. En su Artículo 9° establece las obligaciones y competencias en relación con los bienes del patrimonio cultural y los bienes de interés cultural.
@@ -108,7 +108,7 @@
 
       div(x="20%" y="93%" tooltip="Ley 1273 de 2009" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 3rem 2rem 3rem;")
               h4(style="color:#12263F !important;") Ley 1273 de 2009
               p(style="color:#12263F !important;") Por medio de la cual se modifica el Código Penal, se crea un nuevo bien jurídico tutelado - denominado "de la protección de la información y de los datos" y se preservan integralmente los sistemas que utilicen las Tecnologías de la Información y la Comunicación, entre otras disposiciones.
@@ -121,7 +121,7 @@
 
       div(x="43%" y="45%" tooltip="Ley 1448 de 2011" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 3rem 2rem 3rem;")
               h4(style="color:#12263F !important;") Ley 1448 de 2011
               p(style="color:#12263F !important;") Por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones. En el Artículo 144 Parágrafo 3° establece que para efectos de la aplicación del presente artículo se tendrá en cuenta lo dispuesto en la Ley 594 de 2000 y en el Capítulo X sobre conservación de archivos contenido en la Ley 975 de 2005.
@@ -134,7 +134,7 @@
 
       div(x="43%" y="61%" tooltip="Ley 1581 de 2012" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 4rem 6rem 5rem;")
               h4(style="color:#12263F !important;") Ley 1581 de 2012
               p(style="color:#12263F !important;") Por la cual se dictan disposiciones generales para la protección de datos personales.
@@ -147,7 +147,7 @@
 
       div(x="43%" y="77%" tooltip="Ley 1712 de 2014" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 4rem 6rem 5rem;")
               h4(style="color:#12263F !important;") Ley 1712 de 2014
               p(style="color:#12263F !important;") Por medio de la cual se crea la Ley de transparencia y del derecho de acceso a la información pública nacional y se dictan otras disposiciones. Esta ley regula el derecho de acceso a la información pública, los procedimientos para el ejercicio y garantía del derecho y las excepciones a la publicidad de la información.
@@ -160,7 +160,7 @@
 
       div(x="43%" y="93%" tooltip="Ley 1915 de 2018" numero="")
         .row.align-items-center
-          .col-md-5.m-auto
+          .col-md-6.m-auto
             div.contLey(style="padding:5rem 4rem 6rem 5rem;")
               h4(style="color:#12263F !important;") Ley 1915 de 2018
               p(style="color:#12263F !important;") Por la cual se modifica la Ley 23 de 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos.

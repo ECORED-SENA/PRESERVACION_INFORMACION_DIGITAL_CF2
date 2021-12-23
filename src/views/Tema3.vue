@@ -132,7 +132,7 @@
           li(style="border-bottom: 2px #AFAFAF solid;")
             .lista-ol--cuadro__vineta
               span #[i.fas.fa-angle-right]
-            p #[strong Datos de indentificación para al autenticación y validación del documento (firma y/o estampado)]
+            p #[strong Datos de indentificación para la autenticación y validación del documento (firma y/o estampado)]
           li(style="border-bottom: 2px #AFAFAF solid;")
             .lista-ol--cuadro__vineta
               span #[i.fas.fa-angle-right]

@@ -142,7 +142,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Archivo General de la Nación AGN. (2003). Ordenación documental.',
+        'Archivo General de la Nación AGN. (2003). Ordenación documental.<br>',
       link:
         'https://www.archivogeneral.gov.co/caja_de_herramientas/docs/5.%20organizacion/DOCUMENTOS%20TECNICOS/CARTILLA%20DE%20ORDENACION%20DOCUMENTAL.pdf',
     },
@@ -273,6 +273,28 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jhon Jairo Villamizar Mora',
+        cargo: 'Experto temático ',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios. CIES',
+      },
+      {
+        nombre: 'Claudia Milena Hernández Naranjo',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Revisor metodológico y pedagógico',
+        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro:
+          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
       },
     ],
     desarrolloProducto: [

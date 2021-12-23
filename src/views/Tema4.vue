@@ -150,7 +150,7 @@
             tr
               td.p-5(style="background-color:#E5F3F5;") #[strong Selección y delimitación de las áreas de entrenamiento]
               td(style="background-color:#F6F6F6;")
-                p Es la fase más importante del proyecto que requiere previo conocimiento de las características del área, así como delas categorías que pretende discriminar. Con base en experiencias locales y profesionales, trabajo de campo, usode fotografías aéreas y otra información secundaria se definen y se delimitan las áreas de entrenamiento o pilotosrepresentativas de cada una de las categorías de interés.
+                p Es la fase más importante del proyecto que requiere previo conocimiento de las características del área, así como de las categorías que pretende discriminar. Con base en experiencias locales y profesionales, trabajo de campo, uso de fotografías aéreas y otra información secundaria se definen y se delimitan las áreas de entrenamiento o pilotos representativas de cada una de las categorías de interés.
                 p.mt-3 Se basa en los criterios pictórico-morfológicos de la imagen como tono o color, textura, tamaño, forma, sitio, etc. La errónea selección de muestras conducirá a resultados erróneos. A partir de estas muestras el algoritmo clasificador calcula los ND que definen cada una de las clases y asigna el resto de los píxeles de la imagen a una de esas categorías. La delimitación se realiza mediante un ratón sobre la pantalla del computador.
             tr
               td.p-5(style="background-color:#EDFBFD;") #[strong Elección y aplicación del algoritmo de clasificación]
