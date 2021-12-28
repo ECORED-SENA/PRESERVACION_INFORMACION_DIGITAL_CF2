@@ -89,7 +89,7 @@
       img(src="@/assets/curso/tema5/4.svg" data-aos="fade-up")
       figcaption Nota. Tomado del Archivo General de la Nación (2003).
       
-      p.mt-4(data-aos="fade-up") Este sistema de ordenación es fácil de comprender, su aplicación no es del todo apropiada debido a que han habido aplicaciones indiscriminadamente a grupos documentales grandes, y no a series documentales.
+      p.mt-4(data-aos="fade-up") Este sistema de ordenación es fácil de comprender, para algunos casos se han aplicado indiscriminadamente a agrupaciones documentales grandes (de fondo o sección) y no a series documentales.
 
       p.mt-3(data-aos="fade-up") Para mayor consulta, puede revisar el siguiente documento:
 

@@ -100,7 +100,7 @@
     .titulo-segundo.mt-5
       h2#t_4_4 4.4  Clasificación digital
 
-    p(data-aos="fade-up") Implica el proceso de convertir una imagen continua en una imagen degradada, objetivamente, a partir de la agregar niveles digitales espectralmente similares. Hay dos formas de clasificación: supervisado y no supervisado.
+    p(data-aos="fade-up") Implica el proceso de convertir una imagen continua en una imagen degradada, hace referencia a la tarea de extraer clases de información de una imagen ráster multibanda. Hay dos formas de clasificación: supervisado y no supervisado.
 
     .row.mt-5
       .col-md-6
